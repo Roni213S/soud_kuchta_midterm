@@ -15,7 +15,7 @@ Open in a browser of your choice
 5. Submit a pull request :D
 
 ## Credits
-Roni Soud
+Roni Soud and Liam Kuchta
 
 ## License
 Seek licence file
